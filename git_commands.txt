@@ -15,4 +15,11 @@
     git status
     git restore testing.py
     git status
-    history
+    git remote -v
+    git push origin master
+    git push origin master
+    git remote -v
+    git remote set-url origin https://github.com/rm4314417-create/github-for-devops.git
+    git remote -v
+    git push origin master
+    git push origin main
